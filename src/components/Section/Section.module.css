@@ -1,0 +1,9 @@
+.container {
+    width: 340px;
+    padding: 20px 60px;
+}
+
+.title {
+    font-weight: 400;
+    font-family: sans-serif;
+}

@@ -1,0 +1,9 @@
+.feedbackList {
+    padding: 0;
+    list-style: none;
+}
+
+
+.feedbackList_item {
+font-family: sans-serif;
+}
